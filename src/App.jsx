@@ -4,7 +4,6 @@ import { Route, Routes } from 'solid-app-router';
 const App = () => {
   return (
     <div>
-      <h1>Hello World!</h1>
       <Login />
     </div>
   );
