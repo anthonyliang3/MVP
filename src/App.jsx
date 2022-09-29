@@ -1,10 +1,15 @@
 import Login from './components/Login.jsx';
+import Main from './components/Main.jsx';
 import { Route, Routes } from 'solid-app-router';
+import { Router } from 'solid-app-router';
 
 const App = () => {
   return (
     <div>
-      <Login />
+      <Routes>
+        <Route path="/main" component={Main} />
+        <Route path="/" component={Login} />
+      </Routes>
     </div>
   );
 }

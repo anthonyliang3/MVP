@@ -14,9 +14,15 @@
     "vite-plugin-solid": "^2.3.0"
   },
   "dependencies": {
+    "@solidjs/router": "^0.4.3",
+    "@suid/icons-material": "^0.4.0",
+    "@suid/material": "^0.6.2",
+    "axios": "^0.27.2",
     "bootstrap": "^5.2.1",
     "dotenv": "^16.0.2",
+    "react-spotify-web-playback": "^0.10.0",
     "solid-app-router": "^0.4.2",
-    "solid-js": "^1.5.1"
+    "solid-js": "^1.5.1",
+    "spotify-web-api-js": "^1.5.2"
   }
 }
