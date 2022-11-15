@@ -1,3 +1,7 @@
+## Overview
+
+A full-stack SolidJS app that tracks and creates playlists based on user's top artists, top tracks, and recently played songs from different time period.
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
@@ -35,4 +39,4 @@ You can deploy the `dist` folder to any static host provider (netlify, surge, no
 
 ## Features
 
-<img src='./src/ReadMeImages/overview.gif' align="center"/>
+<img src='./my-app/src/ReadMeImages/overview.gif' align="center"/>
