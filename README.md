@@ -39,4 +39,4 @@ You can deploy the `dist` folder to any static host provider (netlify, surge, no
 
 ## Features
 
-<img src='./my-app/src/ReadMeImages/overview.gif' align="center"/>
+<img src='./src/ReadMeImages/Slotify.gif' align="center"/>
