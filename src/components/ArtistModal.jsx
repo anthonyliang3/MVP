@@ -38,6 +38,7 @@ const ArtistModal = (props) => {
             boxShadow: "24px",
             p: 4,
             textAlign:"center",
+            borderRadius: '15px'
           }}
         >
           <Typography id="modal-modal-title" variant="h6" component="h2" color="white">

@@ -10,7 +10,7 @@ import TextField from "@suid/material/TextField";
 const ArtistList = (props) => {
 
   return (
-      <Box sx={{backgroundColor: 'black'}}>
+      <Box sx={{backgroundColor: 'black', minHeight:'800px'}}>
         <Grid container spacing={0}>
           <Grid item xs={6}>
             <ToggleButtonGroup

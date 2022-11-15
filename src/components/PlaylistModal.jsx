@@ -22,7 +22,7 @@ const PlaylistModal = (props) => {
   return (
     <div>
       <div style="position: fixed">
-        <Fab onClick={handleOpen} style={{color:'white', bottom: '40%', right: '9%', position:'fixed', alignSelf: 'flex-end', width:"75px", height:"75px"}} color="success" aria-label="add">
+        <Fab onClick={handleOpen} style={{color:'white', bottom: '40%', right: '6%', position:'fixed', alignSelf: 'flex-end', width:"75px", height:"75px"}} color="success" aria-label="add">
           <PlaylistAddIcon fontSize="large"/>
         </Fab>
       </div>

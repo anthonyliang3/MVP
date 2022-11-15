@@ -18,7 +18,7 @@ const Login = () => {
 
   return (
     <Box sx={{textAlign:"center", padding:"50px", backgroundColor:"black"}}>
-      <Paper elevation={1} sx={{height:'900px', backgroundColor:"black", backgroundImage: "url(https://i.postimg.cc/vBc3vhFD/0029286012-10.jpg)", backgroundRepeat: "no-repeat", backgroundPosition: "center", backgroundSize: "contained"}}>
+      <Paper elevation={1} sx={{height:'1100px', backgroundColor:"black", backgroundImage: "url(https://i.postimg.cc/vBc3vhFD/0029286012-10.jpg)", backgroundRepeat: "no-repeat", backgroundPosition: "center", backgroundSize: "contained"}}>
         <Typography variant="h2" sx={{color:"white"}}> Slotify </Typography>
         <br></br>
         <Typography variant='h4' sx={{color:"#F0F0F0"}}>Find your top songs</Typography>
